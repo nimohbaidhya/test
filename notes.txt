@@ -1,0 +1,16 @@
+: forticlient username: lmaharjan
+: password: crRHPA^7mZ
+: Database url 192.168.50.25
+username vpoddar
+password :: H!malT#ch
+login into grantstreamManager ... username >> lmaharjan
+                                  password >> H!malT3ch
+
+
+GSManage Telus/Yum ... https://lmaharjan.grantstream.com/Telus/manage/GSInterface/ 
+                      username >> gsuser
+                      password >> Basketb@11
+
+
+Short667
+EmptyWall
